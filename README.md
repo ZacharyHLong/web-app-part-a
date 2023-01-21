@@ -66,6 +66,24 @@ We are using the MERN stack to build our application. The front-end will be buil
 
 ## **Wireframes**
 
+### Desktop
+
+![Desktop Home Wireframe](./docs/wireframe-pics/desktop-home.png)
+![Desktop Games Wireframe](./docs/wireframe-pics/desktop-games.png)
+![Desktop Courts Wireframe](./docs/wireframe-pics/desktop-courts.png)
+
+### Tablet
+
+![Tablet Home Wireframe](./docs/wireframe-pics/tablet-home.png)
+![Tablet Games Wireframe](./docs/wireframe-pics/tablet-games.png)
+![Tablet Courts Wireframe](./docs/wireframe-pics/tablet-courts.png)
+
+### Mobile
+
+![Mobile Home Wireframe](./docs/wireframe-pics/mobile-home.png)
+![Mobile Games Wireframe](./docs/wireframe-pics/mobile-games.png)
+![Mobile Courts Wireframe](./docs/wireframe-pics/mobile-courts.png)
+
 ---
 
 ## **Trello**
